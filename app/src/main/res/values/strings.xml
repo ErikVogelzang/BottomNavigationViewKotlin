@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bottom Navigation View Kotlin</string>
+
+    <string name="home_fragment_text">This is our home menu!</string>
+    <string name="rated_fragment_text">Thank you for rating us with %.1f stars</string>
+    <string name="btn_rate">RATE</string>
+</resources>
